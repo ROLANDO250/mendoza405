@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 ,unitel
+
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbn068gSDL7IM1D_18zi_uGq9XsQe4KMOrWRbNF-OYqb)/dm/3/x7vsezg/d/live-2.m3u8
+
+#EXTINF:-1 ,BOLIVICION
+
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+
+#EXTINF:-1 ,CHACO TV
+
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w966445566.m3u8
+
+#EXTINF:-1 ,RTP
+
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 ,RED UNO
+
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh3A5udUVmnac8D3COy2XYUJLGbSzfXhjwrBpbyfHu7r)/dm/3/x825whp/d/live-2.m3u8
+
+
+#EXTINF:-1 ,TVU
+
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 ,CADENA A 
+
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 ,BOLIVIA TV
+
+https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIyIDc6MTQ6NDQgUE0maGFzaF92YWx1ZT1EZU9tVzVmNHExYWtVaFRrdmdZM2J3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+
+#EXTINF:-1 ,ATB
+
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlrJWFUP0w5V0fZkzf9HcRqS8gRsJh1F2bbnzZQZK41c)/dm/3/x84eirw/d/live-2.m3u8
